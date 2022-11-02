@@ -1,0 +1,1 @@
+[{"trial": 0, "search_space": null, "scorings": {"Recall": 0.9318432553606505, "Precision": 0.24168148685635327, "AUC": 0.9372957615639552, "Accuracy": 0.942622475220697, "Recall_Std": 0.058362074045806754, "Precision_Std": 0.1442838983897995, "AUC_Std": 0.02518844825540655, "Accuracy_Std": 0.045982204324791706, "F1-Score": 0.36163314269740376}}, {"trial": 1, "search_space": 
